@@ -7,84 +7,95 @@
   },
   "events": [
     {
-      "start_date": { "year": "1986" },
+      "start_date": { "year": "1986", "month": "1", "day": "1" },
       "text": {
         "headline": "Brain",
         "text": "Primer virus para MS-DOS. Infectaba el sector de arranque de disquetes. Impacto moderado. Inició el concepto de antivirus."
       }
     },
     {
-      "start_date": { "year": "1988" },
+      "start_date": { "year": "1988", "month": "1", "day": "1" },
       "text": {
         "headline": "Morris Worm",
         "text": "Uno de los primeros gusanos distribuidos por Internet. Afectó 6,000 sistemas. Impulsó la creación del CERT (Computer Emergency Response Team)."
       }
     },
     {
-      "start_date": { "year": "1999" },
+      "start_date": { "year": "1999", "month": "1", "day": "1" },
       "text": {
         "headline": "Melissa",
         "text": "Virus que se propagaba por correo electrónico usando Microsoft Word. Causó interrupciones masivas. Estimuló mejoras en filtros de correo."
       }
     },
     {
-      "start_date": { "year": "2000" },
+      "start_date": { "year": "2000", "month": "1", "day": "1" },
       "text": {
         "headline": "ILOVEYOU",
         "text": "Se propagó globalmente en pocas horas. Pérdidas de más de 10 mil millones de dólares. Aumentó la conciencia sobre ciberseguridad."
       }
     },
     {
-      "start_date": { "year": "2001" },
+      "start_date": { "year": "2001", "month": "1", "day": "1" },
       "text": {
         "headline": "Code Red",
         "text": "Atacó servidores Microsoft IIS. Infectó más de 350,000 equipos. Promovió parches automáticos y mayor vigilancia en servidores web."
       }
     },
     {
-      "start_date": { "year": "2003" },
+      "start_date": { "year": "2003", "month": "1", "day": "1" },
       "text": {
         "headline": "Slammer",
         "text": "Gusano que colapsó redes bancarias y gubernamentales. Se propagó en minutos. Fomentó prácticas de parcheo proactivo."
       }
     },
     {
-      "start_date": { "year": "2004" },
+      "start_date": { "year": "2004", "month": "1", "day": "1" },
       "text": {
         "headline": "Mydoom",
         "text": "Virus más rápido en propagarse en su época. Causó lentitud global en Internet. Dio lugar a un aumento de soluciones antispam."
       }
     },
     {
-      "start_date": { "year": "2007" },
+      "start_date": { "year": "2007", "month": "1", "day": "1" },
       "text": {
         "headline": "Storm Worm",
         "text": "Gusano que creó una red zombi (botnet) masiva. Usó ingeniería social. Impulsó técnicas avanzadas de detección de bots."
       }
     },
     {
-      "start_date": { "year": "2010" },
+      "start_date": { "year": "2010", "month": "1", "day": "1" },
       "text": {
         "headline": "Stuxnet",
         "text": "Virus dirigido a sistemas industriales iraníes. Considerado el primer ciberarma. Marcó el inicio de la guerra cibernética moderna."
       }
     },
     {
-      "start_date": { "year": "2013" },
+      "start_date": { "year": "2013", "month": "1", "day": "1" },
       "text": {
         "headline": "CryptoLocker",
         "text": "Popularizó el ransomware. Cifraba archivos y pedía rescate en Bitcoin. Se promovieron copias de seguridad y herramientas de desencriptado."
       }
     },
     {
-      "start_date": { "year": "2017" },
+      "start_date": { "year": "2017", "month": "1", "day": "1" },
       "text": {
         "headline": "WannaCry",
         "text": "Ransomware global que afectó hospitales, empresas y gobiernos. Usó una vulnerabilidad de Windows. Microsoft publicó parches de emergencia."
       }
     },
     {
-      "start_date": { "year": "2020" },
+      "start_date": { "year": "2020", "month": "1", "day": "1" },
       "text": {
         "headline": "Emotet",
-        "text": "Troyano bancario que evolucionó a una bot
+        "text": "Troyano bancario que evolucionó a una botnet. Robaba credenciales y propagaba malware. Fue desmantelado por una operación policial internacional."
+      }
+    },
+    {
+      "start_date": { "year": "2022", "month": "1", "day": "1" },
+      "text": {
+        "headline": "HermeticWiper",
+        "text": "Ataque destructivo usado en el conflicto entre Rusia y Ucrania. Borraba datos en masa. Aumentó el enfoque en la resiliencia cibernética en tiempos de guerra."
+      }
+    }
+  ]
+}
